@@ -1,24 +1,15 @@
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Illa%20Jyothi%20Bhavani&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Java%20%26%20Python%20Developer%20%7C%20GenAI%20Builder&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
-
 <div align="center">
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/IllaJyoCodingPro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6FF0&center=true&vCenter=true&width=720&lines=Java+%26+Python+Developer;AI+Full+Stack+Engineer;GenAI+%26+Agentic+AI+Builder;Turning+ideas+into+real+products" alt="Typing SVG" />
-</a>
+# Hi, I'm Illa Jyothi Bhavani 👋
 
-<br/>
+### Java & Python Developer | AI Full Stack | GenAI & Agentic AI Builder
 
 ![Location](https://img.shields.io/badge/📍_Andhra_Pradesh,_India-6366F1?style=for-the-badge)
 ![Status](https://img.shields.io/badge/🟢_Open_to_Work-22C55E?style=for-the-badge)
 ![Certs](https://img.shields.io/badge/🎓_73+_Certifications-F59E0B?style=for-the-badge)
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illa-jyothi-bhavani/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:illajyothibhavani@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C6FF0?style=for-the-badge&logo=react&logoColor=white)](https://github.com/IllaJyoCodingPro)
 
 </div>
 
@@ -84,8 +75,6 @@ Generate text, images, and video from one interface, powered by Hugging Face and
 
 `Python` `Flask` `Hugging Face` `Gemini API` `JavaScript`
 
-🔗 [View Repo](https://github.com/IllaJyoCodingPro?tab=repositories)
-
 </td>
     <td width="50%" valign="top">
 
@@ -97,8 +86,6 @@ Task tracking, assignments, and status workflows with JWT authentication and rol
 ⚡ API response under **250 ms** · 📉 **35%** faster page load · 🔐 **40%** lower auth latency
 
 `FastAPI` `React` `MySQL` `JWT`
-
-🔗 [View Repo](https://github.com/IllaJyoCodingPro?tab=repositories)
 
 </td>
   </tr>
@@ -112,13 +99,9 @@ A web app connecting blood donors with recipients, with blood-group lookup, form
 
 `HTML` `CSS` `JavaScript`
 
-🔗 [View Repo](https://github.com/IllaJyoCodingPro?tab=repositories)
-
 </td>
   </tr>
 </table>
-
-> 💡 *Replace each "View Repo" link with the direct repo URL, e.g. `https://github.com/IllaJyoCodingPro/omnigenai`.*
 
 ---
 
@@ -166,19 +149,6 @@ A web app connecting blood donors with recipients, with blood-group lookup, form
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IllaJyoCodingPro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllaJyoCodingPro&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=IllaJyoCodingPro&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
----
-
 ## 🌱 Currently
 
 - 🔭 Building GenAI and Agentic AI applications
@@ -198,5 +168,3 @@ A web app connecting blood donors with recipients, with blood-group lookup, form
 *⭐ If you like my work, drop a star on a repo!*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
